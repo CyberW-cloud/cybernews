@@ -9,7 +9,7 @@ CRUD API provided for article/comment management.
 API enpoints provided for upvote management.
 
 #### [Postman collection](https://documenter.getpostman.com/view/13254397/TVeiEBA8)
-#### [Heroku]()
+#### I didn't get how to [Heroku]()
 ### Stable on:
 
   - Python v3.8
